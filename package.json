@@ -1,0 +1,16 @@
+{
+  "name": "rony-skies-bot",
+  "version": "1.0.0",
+  "description": "RON Y SKIES - Mini Bot WhatsApp com menus completos e PIX Premium",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.7",
+    "qrcode-terminal": "^0.12.0",
+    "axios": "^1.6.0",
+    "crc": "^3.8.0",
+    "gerencianet": "^2.1.0"
+  }
+}
